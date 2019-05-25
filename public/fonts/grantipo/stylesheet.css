@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 SemiBold'), local('GrantipoBeta001-SemiBold'),
+        url('hinted-GrantipoBeta001-SemiBold.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001 Book';
+    src: local('Grantipo Beta 001 Book'), local('GrantipoBeta001-Book'),
+        url('hinted-GrantipoBeta001-Book.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 Light'), local('GrantipoBeta001-Light'),
+        url('hinted-GrantipoBeta001-Light.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 Heavy'), local('GrantipoBeta001-Heavy'),
+        url('hinted-GrantipoBeta001-Heavy.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 ExtraBold'), local('GrantipoBeta001-ExtraBold'),
+        url('hinted-GrantipoBeta001-ExtraBold.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 Regular'), local('GrantipoBeta001-Regular'),
+        url('hinted-GrantipoBeta001-Regular.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 Bold'), local('GrantipoBeta001-Bold'),
+        url('hinted-GrantipoBeta001-Bold.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grantipo Beta 001';
+    src: local('Grantipo Beta 001 Medium'), local('GrantipoBeta001-Medium'),
+        url('hinted-GrantipoBeta001-Medium.woff2') format('woff2'),
+        url('hinted-GrantipoBeta001-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
