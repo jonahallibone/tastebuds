@@ -14,7 +14,7 @@ const Header = () => {
                         </div>
                     </Col>
                     <Col xs={6}>
-
+                        
                     </Col>
                 </Row>
             </Container>
